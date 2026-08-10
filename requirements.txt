@@ -21,3 +21,4 @@ tavily-python
 langchain-tavily
 requests
 torchvision
+pymysql
