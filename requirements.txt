@@ -20,3 +20,4 @@ pypdf
 tavily-python
 langchain-tavily
 requests
+torchvision
